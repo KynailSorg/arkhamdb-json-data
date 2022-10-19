@@ -698,7 +698,7 @@
         "quantity": 2,
         "skill_intellect": 1,
         "skill_willpower": 1,
-        "text": "<b>Discussion.</b> Choisissez uun investigateur dans votre lieu. Cet investigateur a le droit de jouer un soutien [[Allié]] de sa main, en réduisant de 3 son coût.",
+        "text": "<b>Discussion.</b> Choisissez un investigateur dans votre lieu. Cet investigateur a le droit de jouer un soutien [[Allié]] de sa main, en réduisant de 3 son coût.",
         "traits": "Esprit.",
         "type_code": "event",
         "xp": 0
