@@ -645,7 +645,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "<b>Echapper à.</b> Cette tentative d'évasion utilise [combat] au lieu [agility]. En cas de réussite et si l'ennemi est non-[[Elite]], attachez-lui le Bolas.\nL'ennemi attaché perds -1 d'évasion.\n<b>Forcé.</b> - Après que l'ennemi attaché s'est déplacé : inclinez-le.",
+        "text": "<b>Échapper à.</b> Cette tentative d'évasion utilise [combat] au lieu [agility]. En cas de réussite et si l'ennemi est non-[[Elite]], attachez-lui le Bolas.\nL'ennemi attaché perds -1 d'évasion.\n<b>Forcé.</b> - Après que l'ennemi attaché s'est déplacé : inclinez-le.",
         "traits": "Tactique.",
         "type_code": "event",
         "xp": 0
@@ -680,7 +680,7 @@
         "position": 27,
         "quantity": 2,
         "skill_combat": 2,
-        "text": "Rapide. A jouer après que vous avez attaqué avec succès un ennemi non-[[Elite]] en ayant utilisé un soutien [[Corps-à-corps]] .\nAttachez Blessure Grave à l'ennemi attaqué.\n<b>Forcé</b> - A la fin du round: infligez 1 dégât à l'ennemi attaché.",
+        "text": "Rapide. À jouer après que vous avez attaqué avec succès un ennemi non-[[Elite]] en ayant utilisé un soutien [[Corps-à-corps]] .\nAttachez Blessure Grave à l'ennemi attaqué.\n<b>Forcé</b> - A la fin du round: infligez 1 dégât à l'ennemi attaché.",
         "traits": "Tactique.",
         "type_code": "event",
         "xp": 0
@@ -715,7 +715,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "Rapide. A jouer à la fin d'une attaque ou d'un effet qui a dépensé la dernière munition d'un soutien [[Arme à feu]] que vous controlez.\nAjoutez 1 munition à ce soutien. Vous gagnez +3 à votre valeur de compétence pour votre prochaine attaque avec ce soutien à ce round.",
+        "text": "Rapide. À jouer à la fin d'une attaque ou d'un effet qui a dépensé la dernière munition d'un soutien [[Arme à feu]] que vous controlez.\nAjoutez 1 munition à ce soutien. Vous gagnez +3 à votre valeur de compétence pour votre prochaine attaque avec ce soutien à ce round.",
         "traits": "Chance. Tactique.",
         "type_code": "event",
         "xp": 0
@@ -822,7 +822,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "Rapide.\n[action] Si les Menottes ne sont pas attachées à un ennemi: <b>Echapper à.</b> A utiliser uniquement sur un ennemi [[Humanoïde]]. Cette tentative d'évasion utilise [combat] au lieu de [agility]. En cas de réussite, retirez toutes les fatalités qui sont sur l'ennemi auquel vous venez d'échapper et attachez-lui les Menottes.\nSi l'ennemi attaché est non-[[Élite]], il ne peut pas se redresser et les fatalités ne peuvent pas être placées sur lui.",
+        "text": "Rapide.\n[action] Si les Menottes ne sont pas attachées à un ennemi: <b>Échapper à.</b> A utiliser uniquement sur un ennemi [[Humanoïde]]. Cette tentative d'évasion utilise [combat] au lieu de [agility]. En cas de réussite, retirez toutes les fatalités qui sont sur l'ennemi auquel vous venez d'échapper et attachez-lui les Menottes.\nSi l'ennemi attaché est non-[[Élite]], il ne peut pas se redresser et les fatalités ne peuvent pas être placées sur lui.",
         "traits": "Objet. Police.",
         "type_code": "asset",
         "xp": 2
